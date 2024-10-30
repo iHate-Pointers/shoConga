@@ -490,13 +490,13 @@ parcelRequire = function(e, r, t, n) {
                     socialContainer.className = "social-icons";
                     socialContainer.innerHTML = `
                         <a href="https://instagram.com/emirbakach" target="_blank">
-                            <img src="/Users/emirbakac/Documents/projectsWeb/nsfw/media/instagram.png" alt="Instagram">
+                            <img src="./media/instagram.png" alt="Instagram" class="social-icon">
                         </a>
                         <a href="https://linkedin.com/in/emirbakach" target="_blank">
-                            <img src="/Users/emirbakac/Documents/projectsWeb/nsfw/media/linkedin.png" alt="LinkedIn">
+                            <img src="./media/linkedin.png" alt="LinkedIn" class="social-icon">
                         </a>
                         <a href="https://github.com/emirbakac" target="_blank">
-                            <img src="/Users/emirbakac/Documents/projectsWeb/nsfw/media/github.png" alt="GitHub">
+                            <img src="./media/github.png" alt="GitHub" class="social-icon">
                         </a>`;
                     i.appendChild(socialContainer);
                 });

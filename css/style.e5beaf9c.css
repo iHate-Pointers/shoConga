@@ -75,6 +75,14 @@ html {
     height: 40px;
     cursor: pointer;
 }
+
+.social-icon {
+  transition: transform 0.3s ease; /* Smooth transition */
+}
+
+.social-icon:hover {
+  transform: scale(1.10); /* Scale up by 5% on hover */
+}
   
   @keyframes Cue-In {
     0% {
