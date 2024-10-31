@@ -294,7 +294,7 @@ parcelRequire = function(e, r, t, n) {
                         e.sprites = {
                             ditto: o
                         }, e.main()
-                    }, i.src = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAAAdAgMAAAAWQyy/AAAADFBMVEUAAAA4ODj//wD4+PiX0KkSAAAABHRSTlMA////sy1AiAAAATpJREFUeJylkztyhDAMhu0CcgIonMtwBIqYzHAEpchVKKDZmt0ZqckNdi+TNNwgW0WSH2yGJclM1Mj2/+lljDH/NPv0G1GiYG3R7BKOWHt4d4Mm3HK2VeLxE2bZ1qNtV03x8ghCwJVQ9oDPHzm2HrXGlZQgokn9ZYmF6iNoh69KWBIbxJ9prJR4WUiI7o1WYg4egbNUxWURpVBFiRNLkeRkBvqzKk5jTOjjloiLRoRDJg4oHjMBhDnUhGRzOAAti0GBUxCY4HuZI8lEGVvPoXIyyaIm9FKlTB07wj4RiiaFQz0EolMyKGhydrfmoHsEhhFS60qkDt03AjfEsCHSB4sor+DPRM2zeO4j30smHAsyv/XeGN/eEFx/6viVFSwUfn2IaTY59c2932Il9szC1Icqu1Y1nL79iYj2BW7tIQQo2ndfAAAAAElFTkSuQmCC", e
+                    }, i.src = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAAAdBAMAAACZA9kfAAAAD1BMVEUAAAA4ODj/+wD4+Pj//wCwA7yKAAAABXRSTlMA/////xzQJlIAAAFJSURBVHicxZVtcgMhCIb1BkJ6Adgb7B6h979TRQUVzWSTdqb+SVB5ePmICeGfV4T0WwQyKSuEj3CRmavf40xRceXkFi4HNkQ8LkLFiY2UirKN2wBHBlQE8pW/MiU7Y4LH6RkSFakHql6KqItaPcQ+rpPndGKNSmZeHRHZFgW1j1Nkjdl8fZ92JVe/SV8Qzs4VSpoDiC4TDjsXNBkjsgXNORRdz4RbLZ4ipp1kHrQiqG2gnc8ItA0XdAoydci6HjvSEDh6VEQZk+6xZe5upNAzIbALWEx4obs4TIiBua0vFJ0dAb00k8vSIoGOifnq3UHQbPri6HPhbvjBQGe/QOxma0Esw+l1Ly5/gChNzh0BbfsyJwsiNgfrexSj/EDrx4qoukgaXx+ldjOop18+ZrsqL9bdf4UN4t2Vi9Pmn/le0A1D5Bbt20TfXz/67HPpEau8vwAAAABJRU5ErkJggg==", e
                 }
                 return p(n, e.default), h(n, [{
                     key: "sizeDidChange",
