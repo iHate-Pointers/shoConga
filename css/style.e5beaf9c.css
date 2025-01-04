@@ -36,8 +36,8 @@ html {
     padding: 8px 16px;
     color: #000000;
     text-shadow: 0 1px 2px hsla(0, 0%, 100%, 0.15);
-    background-color: #ffff00;
-    background-image: linear-gradient(#ffff00, #ffff00);
+    background-color: #00ff08;
+    background-image: linear-gradient(#00ff48, #006eff);
     box-shadow: inset 0 0 2px hsla(0, 0%, 100%, 0.15);
     border: none;
     border-radius: 8px;
@@ -47,7 +47,7 @@ html {
   
   button:hover {
     transform: scale(1.10);
-    background-image: linear-gradient(#f8f89b, #f8f89b);
+    background-image: linear-gradient(#82e877, #2b87cd);
   }
   
   button:active {
@@ -81,7 +81,7 @@ html {
 }
 
 .social-icon:hover {
-  transform: scale(1.10); /* Scale up by 5% on hover */
+  transform: scale(1.20); /* Scale up by 5% on hover */
 }
   
   @keyframes Cue-In {

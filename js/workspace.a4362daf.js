@@ -475,11 +475,11 @@ parcelRequire = function(e, r, t, n) {
                     o.parentNode.removeChild(o);
                     a.element.classList.add("cue-in");
                     a.element.style.display = "block";
-                    document.title = "Potato!";
+                    document.title = "DOMAIN EXPANSION!!!";
                 });
 
                 var d = document.createElement("button");
-                d.textContent = "Potato";
+                d.textContent = "Step Forward or Chicken Out";
                 d.addEventListener("click", function() {
                     d.parentNode.removeChild(d);
                     i.appendChild(o);
@@ -489,14 +489,17 @@ parcelRequire = function(e, r, t, n) {
                     var socialContainer = document.createElement("div");
                     socialContainer.className = "social-icons";
                     socialContainer.innerHTML = `
-                        <a href="https://instagram.com/emirbakach" target="_blank">
+                        <a href="https://www.instagram.com/duovigintillian/" target="_blank">
                             <img src="./media/instagram.png" alt="Instagram" class="social-icon">
                         </a>
-                        <a href="https://linkedin.com/in/emirbakach" target="_blank">
+                        <a href="https://www.linkedin.com/in/shoaib-bhutia-285401193/" target="_blank">
                             <img src="./media/linkedin.png" alt="LinkedIn" class="social-icon">
                         </a>
-                        <a href="https://github.com/emirbakac" target="_blank">
+                        <a href="https://github.com/iHate-Pointers" target="_blank">
                             <img src="./media/github.png" alt="GitHub" class="social-icon">
+                        </a>
+                        <a href="https://portfolio-sho.netlify.app/" target="_blank">
+                            <img src="./media/Portfolio.png" alt="Portfolio" class="social-icon">
                         </a>`;
                     i.appendChild(socialContainer);
                 });
