@@ -1,1 +1,1 @@
-Honourable Mentions to Matias.me & emirb.me
+Honourable Mentions to matias.me & emirb.me
